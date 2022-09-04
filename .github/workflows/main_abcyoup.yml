@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'abcyoup'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DAD97EBDEDD34540B1F41926A0EB13E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF04B137E8164715A98CEC8892DCCA64 }}
